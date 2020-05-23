@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: Marvin Belina, Data Scientist, Business Analyst
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
